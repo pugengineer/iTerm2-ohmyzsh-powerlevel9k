@@ -1,5 +1,5 @@
 # iTerm2 + oh my zsh + Powerlevel9K
-![ohmy](../../../../Desktop/ohmy.png)
+![ohmy](ohmy.png)
 ## 
 Homebrew
 https://brew.sh
