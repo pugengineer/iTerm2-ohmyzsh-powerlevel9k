@@ -4,8 +4,7 @@ Follow the video tutorial from The Pug Engineer:
 https://www.youtube.com/channel/UCZgB9SZ7SBlZ6eXhoVOBzAQ
 
 ![ohmy](ohmy.png)
-## 
-Homebrew
+## Homebrew
 https://brew.sh
 
 Install with:
