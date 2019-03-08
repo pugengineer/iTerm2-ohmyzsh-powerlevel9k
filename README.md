@@ -1,7 +1,7 @@
 # iTerm2 + oh my zsh + Powerlevel9K
 
 Follow the video tutorial from The Pug Engineer: 
-https://www.youtube.com/channel/UCZgB9SZ7SBlZ6eXhoVOBzAQ
+https://www.youtube.com/thepugengineer
 
 ![ohmy](ohmy.png)
 ## Homebrew
