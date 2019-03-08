@@ -100,3 +100,13 @@ Skip to the end of `~/.zshrc` and add the line:
 
 Enable word jumps: 
 iTerm → Preferences → Profiles → Keys → Load Preset and select Natural Text Editing
+
+## Change the username@hostname
+
+`whoam` to check your username
+
+Edit `~/.zshrc`
+
+Add:
+
+`DEFAULT_USER = <username>`
