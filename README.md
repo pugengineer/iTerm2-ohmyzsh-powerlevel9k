@@ -75,7 +75,7 @@ Select `solarize-dark` from the dropdown.
 
 Install with:
 
- `brew install zsh-syntax-highlighting`
+ `git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions`
  
 Add the plugin to `~/.zshrc`:
 ```
