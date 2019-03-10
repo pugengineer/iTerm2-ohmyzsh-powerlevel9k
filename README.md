@@ -9,7 +9,7 @@ https://brew.sh
 
 Install with:
 
-`/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)`
+`/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
 
 You'll need to restart the terminal to finalize the installation. 
 Verify it's installed using: 
