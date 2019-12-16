@@ -103,10 +103,10 @@ iTerm → Preferences → Profiles → Keys → Load Preset and select Natural T
 
 ## Change the username@hostname
 
-`whoam` to check your username
+`whoami` to check your username
 
 Edit `~/.zshrc`
 
 Add:
 
-`DEFAULT_USER = <username>`
+`DEFAULT_USER=<username>`
