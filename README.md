@@ -110,3 +110,8 @@ Edit `~/.zshrc`
 Add:
 
 `DEFAULT_USER = <username>`
+
+## Configure VS Code
+1. Go to Settings:
+`terminal.integrated.fontFamily: Source Code Pro for Powerline`
+
