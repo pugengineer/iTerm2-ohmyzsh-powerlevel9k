@@ -20,7 +20,7 @@ https://www.iterm2.com
 
 Install with:
 
-`brew cask install iterm2`
+`brew install iterm2`
 
 After installation, close the terminal.
 You will need to provide full disk access to iTerm2. 
